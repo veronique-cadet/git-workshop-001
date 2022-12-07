@@ -2,6 +2,10 @@
 
 Rule: Never work on the main/ master branch
 
-Name your branches like this:
+2.Name your branches like this:
 your-name/feature-you-are-working-on
 vero/signup-form 
+
+3.Set upstream 
+Point this branch to a remote branch on github to the gh to track changes going forward
+git push -u origin 

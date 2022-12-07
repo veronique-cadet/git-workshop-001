@@ -1,0 +1,7 @@
+// Git Workflow
+
+Rule: Never work on the main/ master branch
+
+Name your branches like this:
+your-name/feature-you-are-working-on
+vero/signup-form 

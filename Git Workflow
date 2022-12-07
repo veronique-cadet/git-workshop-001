@@ -6,6 +6,10 @@ Rule: Never work on the main/ master branch
 your-name/feature-you-are-working-on
 vero/signup-form 
 
+git checkout -b branchname
+
+git branch name 
+
 3.Set upstream 
 Point this branch to a remote branch on github to the gh to track changes going forward
 git push -u origin 
@@ -18,3 +22,5 @@ git push
 
 Commits should be <small></small>
 "Commit early, commit often"
+
+

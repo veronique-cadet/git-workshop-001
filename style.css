@@ -2,7 +2,11 @@ body {
   font-family: sans-serif;
 }
 
-.container {
+.container div:nth-child(1) {
+  background-color: red;
+}
+.container div:nth-child(2) {
+  background-color: white;
 }
 
 .box {
@@ -17,6 +21,5 @@ body {
   width: 100px;
   border: 1px solid black;
   border-radius: 50%;
-  background-color: aqua;
+  background-color: blackg;
 }
-

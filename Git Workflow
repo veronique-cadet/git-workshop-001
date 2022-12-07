@@ -9,3 +9,12 @@ vero/signup-form
 3.Set upstream 
 Point this branch to a remote branch on github to the gh to track changes going forward
 git push -u origin 
+
+GENERAL WORKFLOW:
+git status
+git add
+git commit -m "commit message"
+git push
+
+Commits should be <small></small>
+"Commit early, commit often"
